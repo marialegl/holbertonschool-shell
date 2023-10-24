@@ -1,2 +1,2 @@
 #!/bin/bash
-def copiar_modo(olleh, hello)
+chmod --reference=olleh hello
